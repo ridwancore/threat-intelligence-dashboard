@@ -1,4 +1,4 @@
-import sqlite3
+git import sqlite3
 
 conn = sqlite3.connect("threats.db")
 cursor = conn.cursor()
